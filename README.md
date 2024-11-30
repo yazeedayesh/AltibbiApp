@@ -10,43 +10,16 @@ This application provides access to a collection of medical questions and their 
 
 ## Installation
 
-Clone the repository:
+1. Clone the repository:
    ```bash
     https://github.com/yazeedayesh/AltibbiApp.git
-
-## Navigate to the project directory:
-
-```bash
-cd AltibbiApp
-
-```bash
-# using npm
-npm start
-
+2. Navigate to the project directory:
+   ```bash
+   cd AltibbiApp
+3. Install dependencies:
+   # Using npm
+   ```bash
+   npm install
 # OR using Yarn
-yarn start
-```
-
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
+   ```bash
+   yarn install
