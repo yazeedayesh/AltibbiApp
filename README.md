@@ -17,10 +17,10 @@ This application provides access to a collection of medical questions and their 
    ```bash
    cd AltibbiApp
 3. Install dependencies:
-#Using npm
+   # Using npm
    ```bash
    npm install
-#OR using Yarn
+  # OR using Yarn
    ```bash
    yarn install
 
