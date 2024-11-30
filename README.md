@@ -26,10 +26,10 @@ This application provides access to a collection of medical questions and their 
     yarn install
 4. Start the Expo Server
    # using npm
-   ```
+   ```bash
    npm start
   # OR using Yarn
-  ```
+  ```bash
   yarn start
 
 
