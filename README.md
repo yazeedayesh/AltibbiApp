@@ -28,12 +28,20 @@ This application provides access to a collection of medical questions and their 
    # using npm
    ```bash
    npm start
-  # OR using Yarn
-  ```bash
-  yarn start
-
-
-
-
-
-
+ # OR using Yarn
+    ```bash
+    yarn start
+5. Running Your Application:
+   # For Andriod using npm
+   ```bash
+   npx react-native run-android
+ # OR For Andriod using Yarn
+    ```bash
+    yarn react-native run-android
+5. Running Your Application:
+   # For ios using npm
+   ```bash
+   npx react-native run-ios
+ # OR For ios using Yarn
+   ```bash
+   yarn react-native run-ios
