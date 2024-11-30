@@ -10,7 +10,7 @@ This application provides access to a collection of medical questions and their 
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
     https://github.com/yazeedayesh/AltibbiApp.git
 
