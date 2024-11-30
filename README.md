@@ -14,29 +14,26 @@ This application provides access to a collection of medical questions and their 
    ```bash
     https://github.com/yazeedayesh/AltibbiApp.git
 2. Navigate to the project directory:
-   ```bash
+    ```bash
    cd AltibbiApp
 3. Install dependencies:
    # using npm
-   ```bash
+    ```bash
    npm install
 
   # OR using Yarn
-    ```
     yarn install
 4. Start the Expo Server
    # using npm
    ```bash
    npm start
  # OR using Yarn
-    ```bash
     yarn start
 5. Running Your Application:
    # For Andriod using npm
    ```bash
    npx react-native run-android
  # OR For Andriod using Yarn
-    ```bash
     yarn react-native run-android
 5. Running Your Application:
    # For ios using npm
