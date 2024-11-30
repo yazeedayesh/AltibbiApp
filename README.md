@@ -20,8 +20,9 @@ This application provides access to a collection of medical questions and their 
    # Using npm
    ```bash
    npm install
-  # OR using Yarn
-   ```bash
+   OR using Yarn
    yarn install
+
+
 
 
