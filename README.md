@@ -14,11 +14,10 @@ This application provides access to a collection of medical questions and their 
    ```bash
     https://github.com/yazeedayesh/AltibbiApp.git
 
-## Step 1: Start the Metro Server
+## Navigate to the project directory:
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
-
-To start Metro, run the following command from the _root_ of your React Native project:
+```bash
+cd AltibbiApp
 
 ```bash
 # using npm
