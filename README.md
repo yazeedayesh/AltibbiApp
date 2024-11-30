@@ -17,11 +17,22 @@ This application provides access to a collection of medical questions and their 
    ```bash
    cd AltibbiApp
 3. Install dependencies:
-   # Using npm
+   # using npm
    ```bash
    npm install
-   OR using Yarn
-   yarn install
+
+  # OR using Yarn
+    ```
+    yarn install
+4. Start the Expo Server
+   # using npm
+   ```
+   npm start
+  # OR using Yarn
+  ```
+  yarn start
+
+
 
 
 
